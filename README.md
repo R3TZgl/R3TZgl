@@ -1,7 +1,7 @@
 ### Hi, my name is Gabriel Retzlaff 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/retzlaffgabriel_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-retzlaff-348314239)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-retzlaff-348314239/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3tzgl&show_icons=true&theme=dracula)
 
